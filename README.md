@@ -30,7 +30,6 @@ Atualmente estou desenvolvendo meus conhecimentos através de estudos e projetos
 
 * 💻 Desenvolvimento de Software
 * 🐍 Python
-* ☕ Java
 * ⚙️ C
 * 🌐 HTML, CSS e JavaScript
 * 📘 TypeScript
